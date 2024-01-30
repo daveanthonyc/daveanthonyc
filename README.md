@@ -9,5 +9,6 @@ Here's my [portfolio](https://david-chiang.netlify.app/)
   * email: daveanthonyc@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts:
-  * I love cars btw - [My car photography IG @octane_fume](https://www.instagram.com/octane_fume/)
   * I use Arch & Neovim btw 😉
+  * I love cars btw - [My car photography IG @octane_fume](https://www.instagram.com/octane_fume/)
+  * I also know how to cook some mean Birria Tacos 🌮 
