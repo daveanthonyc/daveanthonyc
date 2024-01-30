@@ -2,8 +2,8 @@
 My name is **David Chiang**.
 I am a passionate software developer who is looking to get into the industry specifically on the frontend 👍
 
-- 🔭 I’m currently working on a project/task management application called Pano. Check it out!
-- 🌱 I’m currently learning Data Structures and Algorithms in a course by ThePrimeagen
+- 🔭 I’m currently working on a project/task management application called Pano. [Check it out!](https://github.com/daveanthonyc/Pano)
+- 🌱 I’m currently learning Data Structures and Algorithms in a course by ThePrimeagen. [Check it out!](https://github.com/daveanthonyc/Data-Structures-And-Algorithms)
 - 📫 How to reach me:
   * email: daveanthonyc@gmail.com
 - 😄 Pronouns: He/Him
