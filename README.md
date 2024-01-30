@@ -1,16 +1,13 @@
 ### Hi there 👋
+My name is **David Chiang**.
+I am a passionate software developer who is looking to get into the industry specifically on the frontend 👍
 
-<!--
-**daveanthonyc/daveanthonyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a project/task management application called Pano. Check it out!
+- 🌱 I’m currently learning Data Structures and Algorithms in a course by ThePrimeagen
+- 📫 How to reach me:
+  * email: daveanthonyc@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun facts:
+  * I love cars btw - [Checkout my car photography on IG @octane_fume](https://www.instagram.com/octane_fume/)
+  * I use Neovim btw
+  * I use Arch btw 
