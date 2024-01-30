@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is **David Chiang**.
-I am a passionate software developer who is looking to get into the industry specifically on the frontend 👍
+I'm **David Chiang**.
+I'm a passionate software developer who's looking to get into the industry specifically on the frontend 👍
 Here's my [portfolio](https://david-chiang.netlify.app/)
 
 - 🔭 I’m currently working on a project/task management application called Pano in React. [Check it out!](https://github.com/daveanthonyc/Pano)
@@ -10,5 +10,4 @@ Here's my [portfolio](https://david-chiang.netlify.app/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts:
   * I love cars btw - [My car photography IG @octane_fume](https://www.instagram.com/octane_fume/)
-  * I use Neovim btw
-  * I use Arch btw 
+  * I use Arch & Neovim btw 😉
