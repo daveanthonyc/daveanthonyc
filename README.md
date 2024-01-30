@@ -8,6 +8,6 @@ I am a passionate software developer who is looking to get into the industry spe
   * email: daveanthonyc@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts:
-  * I love cars btw - [Checkout my car photography on IG @octane_fume](https://www.instagram.com/octane_fume/)
+  * I love cars btw - [My car photography IG @octane_fume](https://www.instagram.com/octane_fume/)
   * I use Neovim btw
   * I use Arch btw 
