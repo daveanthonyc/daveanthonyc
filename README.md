@@ -13,9 +13,6 @@ I'm a passionate software developer who's looking to get into the industry speci
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-#### Dev environment
-
-
 - 🔭 I’m currently working on a project/task management application called Pano in React. [Check it out!](https://github.com/daveanthonyc/Pano)
 - 🌱 I’m currently learning Data Structures and Algorithms in a course by ThePrimeagen. [Check it out!](https://github.com/daveanthonyc/Data-Structures-And-Algorithms)
 - 📫 How to reach me:
