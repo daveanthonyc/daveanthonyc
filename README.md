@@ -4,6 +4,8 @@ I'm a passionate software developer who's looking to get into the industry speci
 
 **Here's my [portfolio](https://david-chiang.netlify.app/)**
 
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveanthonyc)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 I’m currently working on a project/task management application called Pano in React. [Check it out!](https://github.com/daveanthonyc/Pano)
 - 🌱 I’m currently learning Data Structures and Algorithms in a course by ThePrimeagen. [Check it out!](https://github.com/daveanthonyc/Data-Structures-And-Algorithms)
 - 📫 How to reach me:
