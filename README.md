@@ -19,7 +19,6 @@ I'm a passionate software developer who's looking to get into the industry speci
   * email: daveanthonyc@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts:
-  * I use Arch & Neovim btw 😉 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+  * I use Arch & Neovim btw 😉
   * I love cars btw - [My car photography IG @octane_fume](https://www.instagram.com/octane_fume/)
   * I also know how to cook some mean Birria Tacos 🌮 
