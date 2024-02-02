@@ -4,7 +4,6 @@ I'm a passionate software developer who's looking to get into the industry speci
 
 **Here's my [portfolio](https://david-chiang.netlify.app/)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daveanthonyc&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daveanthonyc&layout=compact)
 
 - 🔭 I’m currently working on a project/task management application called Pano in React. [Check it out!](https://github.com/daveanthonyc/Pano)
