@@ -21,4 +21,3 @@ I'm a passionate software developer who's looking to get into the industry speci
 - ⚡ Fun facts:
   * I use Arch & Neovim btw 😉
   * I love cars btw - [My car photography IG @octane_fume](https://www.instagram.com/octane_fume/)
-  * I also know how to cook some mean Birria Tacos 🌮 
