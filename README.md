@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm **David Chiang**.
-I'm a passionate software developer who's looking to get into the industry specifically on the frontend 👍
+I'm a passionate software developer who's looking to get into the industry specifically on the frontend design systems 👍
 
 **Here's my [portfolio](https://david-chiang.netlify.app/)**
 
