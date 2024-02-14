@@ -16,7 +16,7 @@ I'm a passionate software developer who's looking to get into the industry speci
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-- 🔭 I’m currently working on a project/task management application called Pano in React. [Check it out!](https://github.com/daveanthonyc/Pano)
+- 🔭 I’m currently working on my own open source design system. [Check it out!](https://github.com/daveanthonyc/DC-Design-System)
 - 🌱 I’m currently learning Data Structures and Algorithms in a course by ThePrimeagen. [Check it out!](https://github.com/daveanthonyc/Data-Structures-And-Algorithms)
 - 📫 How to reach me:
   * email: daveanthonyc@gmail.com
