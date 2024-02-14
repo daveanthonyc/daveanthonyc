@@ -23,4 +23,4 @@ I'm a passionate software developer who's looking to get into the industry speci
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts:
   * I use Arch & Neovim btw 😉
-  * I love cars btw - [My car photography IG @octane_fume](https://www.instagram.com/octane_fume/)
+  * I love cars btw 🏎️ - [My car photography IG @octane_fume](https://www.instagram.com/octane_fume/)
