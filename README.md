@@ -18,6 +18,7 @@ I'm a passionate software developer who's looking to get into the industry speci
 
 - 🔭 I’m currently working on my own open source design system. [Check it out!](https://github.com/daveanthonyc/DC-Design-System)
 - 🌱 I’m currently learning Data Structures and Algorithms in a course by ThePrimeagen. [Check it out!](https://github.com/daveanthonyc/Data-Structures-And-Algorithms)
+- 📝 I'm writing some technical blogs. [Check it out!](https://david-chiang-blog.netlify.app/blog/)
 - 📫 How to reach me:
   * email: daveanthonyc@gmail.com
 - 😄 Pronouns: He/Him
